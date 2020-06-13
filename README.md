@@ -25,7 +25,7 @@ except:
 
 Upload a status or Tweet your message:
 ```python
-api.update_status("Hellow Twitter #tweepy")
+api.update_status("Hello Twitter #tweepy")
 ```
 
 Twitter Account Used: [@ScarletDemonic](https://twitter.com/ScarletDemonic) 
