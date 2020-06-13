@@ -23,4 +23,9 @@ except:
     print("error in authentication")
 ```
 
+Upload a status or Tweet your message:
+```python
+api.update_status("Hellow Twitter #tweepy")
+```
+
 Twitter Account Used: [@ScarletDemonic](https://twitter.com/ScarletDemonic) 
